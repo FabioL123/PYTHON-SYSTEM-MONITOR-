@@ -1,0 +1,3 @@
+Original path: python-system-monitor/requirements.txt
+Note: this PDF displays the file's text. It is not a runnable replacement for the original .py, .sql, .yml, or configuration file.
+psutil>=5.9,<8
